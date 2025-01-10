@@ -1,0 +1,125 @@
+.main{
+    width: 1440px;
+    height: 586px;
+    background-color: #73c69d;
+
+}
+.solo{
+    display: flex;
+}
+.main img{
+    margin-left: 130px;
+    margin-top: 30px;
+}
+.stroka{
+    margin-left: 550px;
+    margin-top: 25px;
+    font-size: 25px;
+    color: white;
+    
+}
+.stroka li{
+    padding-right: 30px;
+}
+.explore{
+    width: 170px;
+    height: 48px;
+    background-color: white;
+    border-radius: 7px;
+    margin-top: 25px;
+}
+.explore h2{
+    margin-left: 45px;
+    padding-top: 8px;
+}
+.duo{
+    margin-top: 70px;
+    margin-left: 130px;
+
+
+}
+.rob{
+    display: flex;
+}
+.duos{
+    margin-left: 100px;
+}
+.partner{
+    margin-top: 100px;
+    margin-left: 530px;
+}
+.lor{
+    text-align: center;
+}
+.robot{
+    margin-top: 200px;
+    display: flex;
+}
+.learn{
+    width: 170px;
+    height: 48px;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+}
+.learn h2{
+    margin-left: 25px;
+    padding-top: 8px;
+}
+.tag{
+    margin-left: 170px;
+    margin-top: 80px;
+}
+.bird{
+    display: flex;
+    margin-top: 50px;
+}
+.tags{
+    margin-left: 170px;
+    margin-top: 200px;
+}
+.dok{
+    margin-top: 50px;
+}
+.ikonki{
+    display: flex;
+}
+.man{
+    width: 250px;
+    height: 300px;
+    box-shadow: 1px 1px 15px;
+    margin: 0 auto;
+    margin-top: 70px;
+    border-radius: 7px;
+    display: flex;
+}
+.for{
+    width: 1440px;
+    height: 125px;
+    background-color: #74C69D;
+    margin-top: 50px;
+    display: flex;
+    
+}
+.paer{
+    width: 170px;
+    height: 48px;
+    background-color: black;
+    border-radius: 7px;
+    margin: 0 auto;
+    margin-top: 50px;
+    color: white;
+}
+.paer h2{
+    margin-left: 25px;
+    padding-top: 8px;
+}
+.start{
+    margin-top: 55px;
+    margin-left: 700px;
+    color: white;
+    font-size: 20px;
+}
+.wer{
+    margin-top: 25px;
+}
